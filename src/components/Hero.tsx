@@ -8,7 +8,7 @@ const Hero = () => {
     <section className="relative bg-Very-Light-Gray flex w-full flex-col overflow-hidden lg:flex-row-reverse lg:items-center">
       <div className="image relative"></div>
 
-      <div className="flex flex-col items-center gap-y-6 px-5 text-center  lg:items-start lg:px-33 lg:text-start lg:w-[650px] flex-2">
+      <div className="flex flex-col items-center gap-y-6 px-5 text-center  lg:items-start lg:px-33 lg:text-start lg:w-[650px] lg:flex-2">
         <h1 className="text-Dark-Blue font-light mt-10 text-[40px] leading-[48px] lg:text-[50px] lg:leading-[60px]">
           Next generation digital banking
         </h1>
