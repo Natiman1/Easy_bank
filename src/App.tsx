@@ -6,7 +6,7 @@ import Navbar from "./components/Navbar";
 
 function App() {
   return (
-    <div className="h-screen w-screen lg:px-33">
+    <div className="h-screen w-screen overflow-x-hidden">
       <Navbar />
       <Hero />
       <About />

@@ -23,7 +23,7 @@ const Navbar = () => {
     setIsOpen(false); // Close menu
   };
   return (
-    <nav className="bg-White relative z-30 flex w-full items-center justify-between overflow-hidden px-8 py-6 md:py-3">
+    <nav className="bg-White relative z-30 flex w-full items-center justify-between overflow-hidden px-8 py-6 md:py-3 lg:px-33">
       <img src={logo} alt="logo" />
       <img
         onClick={handleToggle}
